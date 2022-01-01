@@ -1,5 +1,5 @@
-# SimpleChattyBot
-
+# SimpleChattyBot - **JetBrains Academy**
+ 
 Your bot can ask anything you want, but there are two rules for your output:
 
 the line with the test should end with the question mark character;
